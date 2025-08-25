@@ -1,0 +1,7 @@
+*.pyc
+.github_vector_cli/
+__pycache__/
+*.json
+*.log
+*.sqllite3
+
